@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 10px 0;
+}
+
+#content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+p {
+  width: 55ch;
+  line-height: 1.5rem;
+}
